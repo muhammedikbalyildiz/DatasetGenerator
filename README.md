@@ -148,7 +148,7 @@ Dataset Generator is an open-source tool that helps generating datasets quickly 
 
 -  **Web Application (PHP)** -- A user-friendly web interface that interacts with the API.
 
-### Live Example Web Application
+### Sample Live Web Application
  **https://datasetgenerator.42web.io**
  
 ---
