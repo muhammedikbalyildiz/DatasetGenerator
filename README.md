@@ -26,7 +26,7 @@ Dataset Generator hızlı ve kolay bir şekilde veri setleri oluşturmayı sağl
 -  **Web Uygulaması (PHP)** -- API ile etkileşim kuran kullanıcı dostu web arayüzü.
 
 ### Canlı Örnek Web Uygulaması
- **https://datasetgenerator.42web.io**
+ **https://datasetgenerator.42web.io** (Alan adı güncellenecek)
  
 ---
 ## Özellikler
@@ -149,7 +149,7 @@ Dataset Generator is an open-source tool that helps generating datasets quickly 
 -  **Web Application (PHP)** -- A user-friendly web interface that interacts with the API.
 
 ### Sample Live Web Application
- **https://datasetgenerator.42web.io**
+ **https://datasetgenerator.42web.io** (Domain name will be updated)
  
 ---
 ## Features
